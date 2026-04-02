@@ -1,0 +1,25 @@
+# Sensitive session & cookie files
+session.json
+lidl_cookies.json
+
+# Personal receipt data
+lidl_receipts.json
+lidl_clean.json
+
+# Test/scratch files
+get_receipts.py
+test_auth.py
+test_detail.py
+parse_test.py
+Untitled.ipynb
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
